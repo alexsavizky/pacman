@@ -1,0 +1,23 @@
+﻿  Main.c
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(54,50): warning C4020: 'startGame': too many actual parameters
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(65,13): warning C4013: '_kbhit' undefined; assuming extern returning int
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(66,22): warning C4013: 'getch' undefined; assuming extern returning int
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(95,50): warning C4020: 'moveDumKraken': too many actual parameters
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(97,54): warning C4020: 'moveDumKraken': too many actual parameters
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(103,20): warning C4013: 'moveSmartkraken' undefined; assuming extern returning int
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(105,54): warning C4020: 'moveDumKraken': too many actual parameters
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(110,51): warning C4020: 'killkraken': too many actual parameters
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(125,52): warning C4020: 'killkraken': too many actual parameters
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(150,118): warning C4029: declared formal parameter list different from definition
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(243,38): warning C4028: formal parameter 1 different from declaration
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(243,82): warning C4029: declared formal parameter list different from definition
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(245,12): warning C4013: 'isDeadLock' undefined; assuming extern returning int
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(246,40): warning C4020: 'changeRandomDerection': too many actual parameters
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(250,63): warning C4029: declared formal parameter list different from definition
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(268,71): warning C4029: declared formal parameter list different from definition
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(274,13): warning C4013: 'ispacman' undefined; assuming extern returning int
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(472,9): warning C4013: 'isKraken' undefined; assuming extern returning int
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(532,88): warning C4029: declared formal parameter list different from definition
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(385): warning C4715: 'nextmove': not all control paths return a value
+C:\Users\alexs\source\repos\pacman\pacman\Main.c(445): warning C4716: 'ChooseDerctionSmartKraken': must return a value
+  pacman.vcxproj -> C:\Users\alexs\source\repos\pacman\Debug\pacman.exe
